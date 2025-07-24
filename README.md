@@ -1,3 +1,3 @@
 # Exciting Project coming soon
 
-# working om frontend
+# working on frontend
